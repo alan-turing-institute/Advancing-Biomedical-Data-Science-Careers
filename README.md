@@ -34,7 +34,7 @@ To address this gap, the ABDC project was established as a collaboration between
   better understand resourcing and advocacy for new roles; 2) how collaborative team science has been successfully approached and managed in teams; 3) career pathway
   examples at an individual level to foster a diverse set of role models that have successfully navigated this space.
 - WP3 - Recommendations to fill the gaps.
-  Drawing on the information collected in WP1 and 2, we will recommend innovative and equitable approaches t increase the inclusion, quality and recognition of data
+  Drawing on the information collected in WP1 and 2, we will recommend innovative and equitable approaches to increase the inclusion, quality and recognition of data
   science within biomedical research.
   
 ## The Team
