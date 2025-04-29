@@ -12,9 +12,9 @@ assignees: ''
 
 1. First, add a simple and clear title.
 
-On the right-hand side:
+Once you created the issue, please add the relevant details on the right-hand side:
 
-2. Add relevant labels (e.g., WP1, Reporting, etc.) and assignees (this could be just yourself or yourself and others).
+2. Add labels (e.g., WP1, Reporting, etc.) and assignees (this could be just yourself or yourself and others).
 3. If you need a new label, you can create one by going to Labels > Edit Labels > New Label.
 4. Link the issue to a specific milestone.
 5. Add a start date and a due date.
