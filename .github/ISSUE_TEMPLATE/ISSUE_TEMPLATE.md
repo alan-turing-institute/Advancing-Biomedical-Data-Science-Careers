@@ -1,14 +1,5 @@
----
-name: "General"
-about: Tasks and deliverable to complete
-title:
-labels:
-assignees:
-
----
-
-<!--
-💙 Thank you for opening this issue. Please complete the following sections by providing relevant information. 
+<!--Delete these sentences when reusing this repository-->
+💙 Thank you for opening this issue! Please complete the following sections by providing relevant information.
 
 1. First, add a simple and clear title.
 
@@ -19,8 +10,9 @@ On the right-hand side:
 4. Link the issue to a specific milestone.
 5. Add a start date and a due date.
 
-All issues should include these elements.
--->
+All issues should include these elements:
+<!--Delete these sentences when reusing this repository-->
+
 ### Overview 
 
 [Replace this sentence with a short description of the issue. Some issue will have longer description than others.]
