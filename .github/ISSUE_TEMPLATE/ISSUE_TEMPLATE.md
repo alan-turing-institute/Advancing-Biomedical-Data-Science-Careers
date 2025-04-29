@@ -1,3 +1,12 @@
+---
+name: "General"
+about: New issue to complete for the project
+title:
+labels:
+assignees: ''
+
+---
+
 <!--Delete these sentences when reusing this repository-->
 💙 Thank you for opening this issue! Please complete the following sections by providing relevant information.
 
