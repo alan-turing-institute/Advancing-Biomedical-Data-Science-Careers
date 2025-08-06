@@ -2,8 +2,20 @@
 
 Five projects are funded through the MRC Biomedical Data Science Leadership Awards to explore and provide evidence on how evidence to improve how
 biomedical research includes, resources and recognises, high-quality data science.
-Together with the Advancing Biomedical Data Science Careers project, the other funded projects part of the award are:
+The five funded projects part of the award are:
 
+## [ABDC](https://www.turing.ac.uk/research/research-projects/advancing-biomedical-data-science-careers) - Advancing Biomedical Data Science Careers 
+- **Led by**: The Alan Turing Institute and EMBL-EBI
+
+- **Aim**:To document a broad range of interdisciplinary biomedical data science to better understand skills, roles, career pathways and team science approaches.
+  
+- **Goals**:
+  - To evaluate skills gaps and identify priority areas for developing knowledge, skills and behaviours across the biomedical data science ecosystem.
+  - To better understand roles, career pathways and team science approaches within the biomedical data science community and how these can improve
+    access, resourcing and career offers.
+  - To evaluate and recommend innovative approaches and ways of working that will  drive forward capacity building and improve quality and standards
+    in biomedical data science. 
+  
 ## [BIOMEDASA](https://www.liverpool.ac.uk/computational-biology-facility/biomedasa/) - Biomedical Data Science Accelerator  
 - **Led by**: University of Liverpool 
 
