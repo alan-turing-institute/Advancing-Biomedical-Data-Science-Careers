@@ -14,3 +14,18 @@ Together with the Advancing Biomedical Data Science Careers project, the other f
   - Analyse: Reviewing Biomedical data science MSc programmes across the UK to investigate both barriers and opportunities in accessing further education.  
   - Reskill: For those seeking to switch carers and retrain in data science, they project offers mentorship opportunities and training bursaries, to better help retrain them.  
   - Inspire: Promoting data science careers to secondary school students, though hands-on and interactive programming workshops, involving LEGO robots and micro:bits.  
+
+## [HxC](https://www.ukdri.ac.uk/hxc-healthier-science-through-collaboration) – Healthier Science through Collaboration 
+- **Led by**: University of Edinburgh, HDR-UK, UKDRI 
+
+- **Aim**: Amplify the voices of interdisciplinary scientists from diverse backgrounds, with the goal of fostering positive and sustainable culture
+  change by embedding good practices within research teams and organisations.
+
+- **Goals**: 
+  - Give voice to interdisciplinary scientists from all backgrounds who feel let down
+  - Draw from insights of researchers, industry, patient and public representatives to challenge longstanding issues in interdisciplinary research culture
+  - Develop evidence-based guidelines to improve this culture
+  - Test these draft guidelines in teams from partner institutions UK DRI and Health Data Research UK
+  - Integrate good research culture practices to maximise the future impact of UK biomedical data research
+  - With an oversight group, early career researchers and Public and Patient Involvement and Industry Group.
+  - They have a survey to collect experiences of interdisciplinary collaboration and barriers. 
