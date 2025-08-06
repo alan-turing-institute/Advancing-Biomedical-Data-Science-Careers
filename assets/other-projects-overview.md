@@ -1,6 +1,7 @@
 ## Biomedical Data Science Leadership Awards
 
-Five projects are funded through the MRC Biomedical Data Science Leadership Awards to explore and provide evidence on how evidence to improve how biomedical research includes, resources and recognises, high-quality data science.
+Five projects are funded through the MRC Biomedical Data Science Leadership Awards to explore and provide evidence on how evidence to improve how
+biomedical research includes, resources and recognises, high-quality data science.
 Together with the Advancing Biomedical Data Science Careers project, the other funded projects part of the award are:
 
 ## [BIOMEDASA](https://www.liverpool.ac.uk/computational-biology-facility/biomedasa/) - Biomedical Data Science Accelerator  
@@ -28,4 +29,26 @@ Together with the Advancing Biomedical Data Science Careers project, the other f
   - Test these draft guidelines in teams from partner institutions UK DRI and Health Data Research UK
   - Integrate good research culture practices to maximise the future impact of UK biomedical data research
   - With an oversight group, early career researchers and Public and Patient Involvement and Industry Group.
-  - They have a survey to collect experiences of interdisciplinary collaboration and barriers. 
+  - They have a survey to collect experiences of interdisciplinary collaboration and barriers.
+
+## [INTEGRATE](https://integrate-bio.org/) – Connecting People for Interdisciplinary Research
+- **Led by**: University of Oxford
+  
+- **Aim**: Provide evidence to higher education institutes and funders on initiatives designed to encourage, support and reward data scientists in
+  biomedical research, and drive better collaboration across UK biomedical science (building on previous work from the MRC- funded X-NET project).
+
+- **Goal**: To enable a supportive and sustainable culture that fully includes data scientists and accelerates the impact of data science in
+  biomedicine.
+
+## [PROMOTE](https://biologicalsciences.leeds.ac.uk/research-project/1/faculty-of-biological-sciences/710/biomedical-data-science-and-careers-leadership-group) - Progressing Routes and Opportunities through Mentoring, Openness, Training, and Equity for biomedical data scientists
+
+- **Led by**: University of Leeds
+
+- **Project overview** (in progress): 
+PROMOTE will map career pathways and barriers to progression in academia and make recommendations to favour the integration of skilled biomedical
+data scientists in academia and industry. Career pathways in partner organisations in other sectors will also be researched, and results will be
+collated into career advice materials for data scientists, and for use with students and early career researchers in academia. Results from these
+investigations will be used to inform a new mentorship programme for biomedical data scientists at relevant career stages. Alongside this, the
+project will implement initiatives to encourage research and caree interactions and exchanges between academic and other sectors. Finally, steps to
+increase entrepreneurship in the biomedical data science workforce.
+will be taken, increasing awareness and providing effective training, and increasing the level of commercialization of academic research.
