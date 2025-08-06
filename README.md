@@ -41,11 +41,11 @@ To address this gap, the ABDC project was established as a collaboration between
 
 - Emma Karoune, Project lead - The Alan Turing Institute
 - Vera Matser, Project co-lead - The Alan Turing Institute
-- Catherine Brooksbank, Project co-lead EMBL - European Bioinformatics Institute
+- Catherine Brooksbank, Project co-lead EMBL-EBI
+- Kim Gurwitz, Project co-lead - EMBL-EBI
 - Ali Marsh, Project Manager - The Alan Turing Institute
-- Kim Gurwitz, Research and Innovation Associate - EMBL - European Bioinformatics Institute
 - Denise Bianco, Senior Research Community Manager - The Alan Turing Institute
-- Daria Sokolova, Scientific Project Officer - EMBL - European Bioinformatics Institute
+- Daria Sokolova, Scientific Project Officer - EMBL-EBI
 - Giulia Tomba, Daphne Jackson Fellow - The Alan Turing Institute
 
 ## Acknowledgement
