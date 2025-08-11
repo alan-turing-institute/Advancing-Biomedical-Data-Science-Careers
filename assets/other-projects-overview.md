@@ -52,15 +52,19 @@ The five funded projects part of the award are:
 - **Goal**: To enable a supportive and sustainable culture that fully includes data scientists and accelerates the impact of data science in
   biomedicine.
 
-## [PROMOTE](https://biologicalsciences.leeds.ac.uk/research-project/1/faculty-of-biological-sciences/710/biomedical-data-science-and-careers-leadership-group) - Progressing Routes and Opportunities through Mentoring, Openness, Training, and Equity for biomedical data scientists
+## [PROMOTE](https://lida.leeds.ac.uk/lida-health-community/promote-progressing-biomedical-data-scientists-careers/) - Progressing Routes and Opportunities through Mentoring, Openness, Training, and Equity
 
 - **Led by**: University of Leeds
 
-- **Project overview** (in progress): 
-PROMOTE will map career pathways and barriers to progression in academia and make recommendations to favour the integration of skilled biomedical
-data scientists in academia and industry. Career pathways in partner organisations in other sectors will also be researched, and results will be
-collated into career advice materials for data scientists, and for use with students and early career researchers in academia. Results from these
-investigations will be used to inform a new mentorship programme for biomedical data scientists at relevant career stages. Alongside this, the
-project will implement initiatives to encourage research and caree interactions and exchanges between academic and other sectors. Finally, steps to
-increase entrepreneurship in the biomedical data science workforce.
-will be taken, increasing awareness and providing effective training, and increasing the level of commercialization of academic research.
+- **Aim**: 
+The project aims to map career pathways for biomedical data scientists in a range of sectors, to understand barriers to progression to leadership
+roles and to initiate activities that promote change.
+
+- **Activities**
+  - HR analysis – understanding promotion policies, training and development
+  - Academic career mapping
+  - Industry career mapping
+  - Mentoring initiation
+  - Intersectoral exchanges
+  - Entrepreneurship and commercialisation activities
+  - Career advice materials
