@@ -46,7 +46,7 @@ To address this gap, the ABDC project was established as a collaboration between
 - Ali Marsh, Project Manager - The Alan Turing Institute
 - Denise Bianco, Senior Research Community Manager - The Alan Turing Institute
 - Daria Sokolova, Scientific Project Officer - EMBL-EBI
-- Giulia Tomba, Daphne Jackson Fellow - The Alan Turing Institute
+- Giulia Tomba, Senior Research Associate - The Alan Turing Institute
 
 ## Acknowledgement
 
