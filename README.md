@@ -36,6 +36,9 @@ To address this gap, the ABDC project was established as a collaboration between
 - WP3 - Recommendations to fill the gaps.
   Drawing on the information collected in WP1 and 2, we will recommend innovative and equitable approaches to increase the inclusion, quality and recognition of data
   science within biomedical research.
+- WP4 - Advancing Management Skills in Biomedical AI Research
+  The project aims to engage the biomedical data science community to identify barriers, document best practices, and develop innovative solutions for managing collaboration and data sharing for AI research.
+
   
 ## The Team
 
