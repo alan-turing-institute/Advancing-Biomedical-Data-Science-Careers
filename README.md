@@ -46,7 +46,8 @@ To address this gap, the ABDC project was established as a collaboration between
 - Vera Matser, Project co-lead - The Alan Turing Institute
 - Catherine Brooksbank, Project co-lead EMBL-EBI
 - Kim Gurwitz, Project co-lead - EMBL-EBI
-- Ali Marsh, Project Manager - The Alan Turing Institute
+- Ali Marsh, Senior Programme Manager - The Alan Turing Institute
+- Eirini Koutsouroupa, Programme Manager - The Alan Turing Institute 
 - Denise Bianco, Senior Research Community Manager - The Alan Turing Institute
 - Daria Sokolova, Scientific Project Officer - EMBL-EBI
 - Giulia Tomba, Senior Research Associate - The Alan Turing Institute
